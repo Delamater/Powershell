@@ -1,7 +1,7 @@
 # Create 64 Base Hash for a specified loop count
 $File = "c:\temp\Users.csv"
-#$Pwd = "skw5asFhT#L"
-$Pwd = "skw5asFhT#L"
+#$Pwd = "123"
+$Pwd = "123"
 $User = ""
 $E = "" # Will be used for encoded string
 $line = "" # Used to store the line of the csv file
